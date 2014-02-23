@@ -51,8 +51,6 @@
 * [Github for Windows](http://windows.github.com)
 * [Github for Mac](http://mac.github.com)
 
-## Editors
-
 ## Static Design Tools
 
 * [Sketch](http://www.bohemiancoding.com/sketch/)
@@ -71,6 +69,48 @@
 * [Rails Panel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US)
 
 ## Preprocessing
+
+* [Semantic Shift](http://en.wikipedia.org/wiki/Semantic_change)
+* [Google ngrams](http://books.google.com/ngrams/)
+
+**CSS Preprocessing**
+
+* [Less CSS](http://lesscss.org/)
+* [Stylus CSS](http://learnboost.github.io/stylus/)
+* [Sass CSS](http://sass-lang.com/)
+* [Compass for Sass](http://compass-style.org/)
+* [Bourbon for Sass](http://bourbon.io/)
+* [Scut for Sass](http://davidtheclark.github.io/scut/)
+
+**JavaScript Preprocessing**
+
+* [CoffeeScript](http://coffeescript.org/)
+
+**HTML Preprocessing**
+
+* [Jade](http://jade-lang.com/)
+* [HAML](http://haml.info/)
+* [Emmet](http://emmet.io/)
+
+**Pulling it all together**
+
+* [CodeKit for Mac](https://incident57.com/codekit/)
+* [Prepros for Windows and Mac](http://alphapixels.com/prepros/)
+* [Less.app](http://incident57.com/less/)
+* [Compass.app](http://compass.kkbox.com/)
+* [Scout app for Compass and Sass](http://mhs.github.io/scout-app/)
+
+**The open source preprocessing stack**
+
+* [Installing Ruby (a guide from Compass)](http://compass-style.org/install/)
+* [Bundler](http://bundler.io/)
+* [Install Node and npm (the Node Package Manager)](http://nodejs.org/download/)
+* Optionally, install Node and npm with [Homebrew](http://brew.sh/)
+* [Grunt](http://gruntjs.com/)
+* [Getting started with Grunt](http://gruntjs.com/getting-started)
+* [Bower](http://bower.io/)
+* [Handlebars](http://handlebarsjs.com/)
+* [Assemble](http://assemble.io/) *Note: installing Assemble will install and use Handlebars as a dependency.*
 
 ## Local Servers
 * [Anvil](http://anvilformac.com)
