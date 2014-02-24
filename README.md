@@ -1,8 +1,6 @@
 # Links and Resources
 *Build Right: Frontend Tooling* from [Sparkbox](http://seesparkbox.com)
 
-## The Path of Pain
-
 ## Productivity
 
 **CLI**
@@ -21,12 +19,14 @@
 **Document Saving, Retrieving & Organizing**
 
 * [Markdown](http://daringfireball.net/projects/markdown/)
+* [Byword App](http://bywordapp.com/)
 * [nvAlt](http://brettterpstra.com/projects/nvalt/)
 
 **Excessive Typing**
 
 * [TextExpander](http://smilesoftware.com/TextExpander)
 * [Emmet](http://emmet.io)
+* [Adam's Dotfiles](https://github.com/asimpson/dotfiles)
 * [Dotfiles](http://dotfiles.github.io)
 
 **Distraction**
