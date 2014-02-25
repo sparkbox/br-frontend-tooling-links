@@ -122,6 +122,7 @@
 * [WAMP](http://www.wampserver.com/en/)
 * [Homebrew](http://brew.sh)
 * [Vagrant](http://www.vagrantup.com)
+* [Sword](https://sword.mu/)
 
 ## Device Testing
 * [VirtualBox](https://www.virtualbox.org/)
