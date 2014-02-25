@@ -113,6 +113,7 @@
 * [Assemble](http://assemble.io/) *Note: installing Assemble will install and use Handlebars as a dependency.*
 
 **Windows Downloads**
+* [Patrick's awesome post](http://seesparkbox.com/foundry/love_your_frontend_tools_windows)
 * [Msysgit](http://msysgit.github.io/)
 
 ## Local Servers
