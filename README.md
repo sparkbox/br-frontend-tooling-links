@@ -112,6 +112,9 @@
 * [Handlebars](http://handlebarsjs.com/)
 * [Assemble](http://assemble.io/) *Note: installing Assemble will install and use Handlebars as a dependency.*
 
+**Windows Downloads**
+* [Msysgit](http://msysgit.github.io/)
+
 ## Local Servers
 * [Anvil](http://anvilformac.com)
 * [MAMP](http://www.mamp.info/en/index.html)
@@ -130,6 +133,16 @@
 * [XScope](http://iconfactory.com/software/xscope)
 
 ## Automated Deployment
+
+**Services**
+
+* [Beanstalk](http://beanstalkapp.com/)
+* [FTPloy](http://ftploy.com/)
+* [Deploy](http://deployhq.com/)
+* [Springloops](http://www.springloops.io/)
+* [Wrecker](http://wercker.com/)
+
+**Roll Your Own**
 
 * [Mina](https://github.com/nadarei/mina)
 * [Capistrano](https://github.com/capistrano/capistrano)
