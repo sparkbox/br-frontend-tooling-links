@@ -12,6 +12,7 @@
 * [Learn the CLI the hard way](http://cli.learncodethehardway.org/book/)
 * [Getting to Know the Command Line](http://www.davidbaumgold.com/tutorials/command-line/)
 * [The designer’s guide to the OSX command prompt](http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/)
+* [Command Line Tools for Frontend Developers](http://seesparkbox.com/foundry/command_line_tools_for_frontend_developers)
 
 **Mouse Clicks**
 
