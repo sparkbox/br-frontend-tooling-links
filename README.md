@@ -65,6 +65,7 @@
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 * [Github for Windows](http://windows.github.com)
 * [Github for Mac](http://mac.github.com)
+* [Hub app for Mac](thehubapp.com/) (Github Notifications in your menu bar)
 
 ## Static Design Tools
 
