@@ -69,6 +69,10 @@
 
 ## Static Design Tools
 
+**Version Control for Visual Design**
+* [LayerVault](https://layervault.com/)
+* [Pixelapse](https://www.pixelapse.com/)
+
 **Wireframing Tools**
 
 * [Keynote](http://apple.com/mac/keynote/)
