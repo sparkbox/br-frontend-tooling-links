@@ -17,6 +17,7 @@
 **Mouse Clicks**
 
 * [Alfred App](http://alfredapp.com)
+  * [Colors workflow](http://tylereich.github.io/Alfred-Extras/#/Colors)
   * [JavaScript to CoffeeScript workflow](http://www.alfredforum.com/topic/2816-js2coffee-workflow/)
   * [Alfred-Harvest workflow](https://github.com/neilrenicker/alfred-harvest)
   * [Alfred-Pinboard workflow](https://github.com/eknkc/alfred-pinboard)
