@@ -17,6 +17,11 @@
 **Mouse Clicks**
 
 * [Alfred App](http://alfredapp.com)
+  * [JavaScript to CoffeeScript workflow](http://www.alfredforum.com/topic/2816-js2coffee-workflow/)
+  * [Alfred-Harvest workflow](https://github.com/neilrenicker/alfred-harvest)
+  * [Alfred-Pinboard workflow](https://github.com/eknkc/alfred-pinboard)
+  * [Say workflow] (http://www.alfredforum.com/topic/1055-say-text-to-speech-with-option-of-voices/) (Text to speech, with a variety of voices. This one's fun!)
+  * [Toggle Visibility of Hidden Files workflow](http://matthojo.co.uk/articles/alfred-hide-show-hidden-file-extentions/)
 * [Dash](http://kapeli.com/dash)
 * [Vimium](http://vimium.github.io)
 * [BulletTrain](http://bullettrain.com)
