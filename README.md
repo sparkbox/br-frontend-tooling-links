@@ -23,6 +23,7 @@
   * [Alfred-Pinboard workflow](https://github.com/eknkc/alfred-pinboard)
   * [Say workflow] (http://www.alfredforum.com/topic/1055-say-text-to-speech-with-option-of-voices/) (Text to speech, with a variety of voices. This one's fun!)
   * [Toggle Visibility of Hidden Files workflow](http://matthojo.co.uk/articles/alfred-hide-show-hidden-file-extentions/)
+* [Launchy](http://www.launchy.net) (Windows launcher)
 * [Dash](http://kapeli.com/dash)
 * [Vimium](http://vimium.github.io)
 * [BulletTrain](http://bullettrain.com)
