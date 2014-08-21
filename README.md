@@ -25,6 +25,8 @@
   * [Toggle Visibility of Hidden Files workflow](http://matthojo.co.uk/articles/alfred-hide-show-hidden-file-extentions/)
 * [Launchy](http://www.launchy.net) (Windows launcher)
 * [Dash](http://kapeli.com/dash)
+    * [Velocity - like Dash for Windows](http://velocity.silverlakesoftware.com)
+    * [Zeal - like Dash for Windows](http://zealdocs.org)
 * [Vimium](http://vimium.github.io)
 * [BulletTrain](http://bullettrain.com)
 
