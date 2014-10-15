@@ -36,6 +36,7 @@
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Byword App](http://bywordapp.com/)
 * [nvAlt](http://brettterpstra.com/projects/nvalt/)
+* [MacDown](http://macdown.uranusjr.com)
 
 **Excessive Typing**
 
@@ -55,8 +56,10 @@
 
 **Sublime Packages**
 
+* [Package Control](https://sublime.wbond.net/installation)
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
+* [GitGutter](https://github.com/jisaacks/GitGutter)
 
 **Vim resources**
 
@@ -184,6 +187,7 @@
 * [Deploy](http://deployhq.com/)
 * [Springloops](http://www.springloops.io/)
 * [Wrecker](http://wercker.com/)
+* [Divshot](http://divshot.com)
 
 **Roll Your Own**
 
