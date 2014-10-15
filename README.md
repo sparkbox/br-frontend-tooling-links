@@ -13,6 +13,7 @@
 * [Getting to Know the Command Line](http://www.davidbaumgold.com/tutorials/command-line/)
 * [The designer’s guide to the OSX command prompt](http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/)
 * [Command Line Tools for Frontend Developers](http://seesparkbox.com/foundry/command_line_tools_for_frontend_developers)
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
 
 **Mouse Clicks**
 
@@ -61,6 +62,9 @@
 
 * [Vim for people who think things like Vim are weird and hard](http://csswizardry.com/2014/06/vim-for-people-who-think-things-like-vim-are-weird-and-hard/)
 * [Ethan's Vim Dotfiles](github.com/ethanmuller/dotvim/)
+* [VimAwesome](http://vimawesome.com/)
+* [Vimbits](http://vimbits.com/)
+* [Vimcasts](http://vimcasts.org/)
 
 ## Source Control
 * [Git: The tree of possibilities for the curious designer](https://medium.com/design-ux/92f2350fd047)
