@@ -60,6 +60,7 @@
 **Vim resources**
 
 * [Vim for people who think things like Vim are weird and hard](http://csswizardry.com/2014/06/vim-for-people-who-think-things-like-vim-are-weird-and-hard/)
+* [Ethan's Vim Dotfiles](github.com/ethanmuller/dotvim/)
 
 ## Source Control
 * [Git: The tree of possibilities for the curious designer](https://medium.com/design-ux/92f2350fd047)
