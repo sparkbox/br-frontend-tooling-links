@@ -142,12 +142,12 @@
 
 **The open source preprocessing stack**
 
-* [Installing Ruby (a guide from Compass)](http://compass-style.org/install/)
 * [Bundler](http://bundler.io/)
 * [Install Node and npm (the Node Package Manager)](http://nodejs.org/download/)
 * Optionally, install Node and npm with [Homebrew](http://brew.sh/)
 * [Grunt](http://gruntjs.com/)
 * [Getting started with Grunt](http://gruntjs.com/getting-started)
+* [Gulp](http://gulpjs.com/)
 * [Bower](http://bower.io/)
 * [Handlebars](http://handlebarsjs.com/)
 * [Assemble](http://assemble.io/) *Note: installing Assemble will install and use Handlebars as a dependency.*
@@ -171,6 +171,7 @@
 * [IEVMs Script](http://github.com/xdissent/ievms)
 * [Browserstack](www.browserstack.com)
 * [Edge Inspect](http://html.adobe.com/edge/inspect/)
+* [BrowserSync](http://www.browsersync.io/)
 * [Ghostlab](http://vanamco.com/ghostlab/)
 * [XScope](http://iconfactory.com/software/xscope)
 
@@ -188,6 +189,7 @@
 * [Springloops](http://www.springloops.io/)
 * [Wrecker](http://wercker.com/)
 * [Divshot](http://divshot.com)
+* [CircleCI](https://circleci.com/)
 
 **Roll Your Own**
 
