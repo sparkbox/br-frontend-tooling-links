@@ -1,6 +1,8 @@
 # Links and Resources
 *Build Right: Frontend Tooling* from [Sparkbox](http://seesparkbox.com)
 
+[Google docs link](https://docs.google.com/document/d/1gRGBwj6k0NDEAqrSX4JXhMdOqtSaMHTEc0iFv1L1bAU/edit?usp=sharing)
+
 ## Path of Pain
 
 * [A Baseline for Front-End Developers](rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
