@@ -5,7 +5,7 @@
 
 ## Path of Pain
 
-* [A Baseline for Front-End Developers](rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+* [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 
 ## Productivity
 
